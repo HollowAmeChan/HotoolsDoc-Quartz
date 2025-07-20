@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hotools-blender/骨骼工具.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "骨骼工具"
+              "title": "index"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -171,8 +171,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "_img/3CA174B5C99FCC7F9C8C1599729E3695.jpg",
     "安装与配置/blender插件安装.md",
     "安装与配置/支持.md",
+    "Hotools-blender/index.md",
+    "index.md",
+    "Hotools-blender/骨骼工具.md",
     "安装与配置/index.md",
     "Hotools-blender/顶点组工具.md",
     "Hotools-blender/导出.md",
@@ -180,13 +184,10 @@
     "Hotools-blender/形态键工具.md",
     "Hotools-blender/exIcon.md",
     "Hotools-blender/顶点色工具.md",
-    "Hotools-blender/index.md",
     "Hotools-unity/导入约束.md",
     "Hotools-blender/其他.md",
     "Hotools-blender/UV工具.md",
-    "Hotools-blender/骨骼工具.md",
     "Hotools-blender/支持.md",
-    "index.md",
     "Hotools-blender/blender插件安装.md",
     "Hotools-unity/index.md",
     "_img/Pasted image 20250720175644.png",
