@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装与配置/blender插件安装.md",
+                "file": "Hotools-blender/blender插件安装.md",
                 "mode": "source",
                 "source": false
               },
@@ -171,8 +171,10 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "安装与配置/支持.md",
+    "Hotools-blender/支持.md",
+    "Hotools-blender/blender插件安装.md",
     "安装与配置/blender插件安装.md",
+    "安装与配置/支持.md",
     "安装与配置/index.md",
     "Hotools-blender/index.md",
     "Hotools-unity/index.md",
