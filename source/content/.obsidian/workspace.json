@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装与配置/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,11 +183,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "安装与配置/index.md",
     "安装与配置/Some note.md",
     "index.md",
-    "安装与配置/index.md",
     "Hotools-unity",
     "Hotools-blender",
     "安装与配置"
