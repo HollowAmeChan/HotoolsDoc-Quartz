@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装与配置/支持.md",
+                "file": "安装与配置/blender插件安装.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "支持"
+              "title": "blender插件安装"
             }
           }
         ]
@@ -171,12 +171,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "安装与配置/支持.md",
     "安装与配置/blender插件安装.md",
     "安装与配置/index.md",
     "Hotools-blender/index.md",
     "Hotools-unity/index.md",
     "index.md",
-    "安装与配置/支持.md",
     "_img/Pasted image 20250720175644.png",
     "_img/Pasted image 20250720175948.png",
     "_img",
