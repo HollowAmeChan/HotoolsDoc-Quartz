@@ -11,7 +11,7 @@ bl有跟blender源文件安装在一起的插件目录，也有单独的插件�
 `C:\Users\你的用户名\AppData\Roaming\Blender Foundation\Blender\4.3\scripts\addons`
 其中 `AppData` 文件夹需要开启显示隐藏文件才能看见
 直接将压缩包内的文件夹解压到这个目录下
-保证`\addons\Hotools\源文件`这样的形式，一定要注意不能有文件夹嵌套
+保证 `\addons\Hotools\一堆文件` 这样的形式，一定要注意不能有文件夹嵌套
 # 2.blender中启用
 ![[Pasted image 20250720180734.png|450]]
 
