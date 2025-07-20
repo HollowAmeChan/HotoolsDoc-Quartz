@@ -1,5 +1,5 @@
 ---
-title: 欢迎使用Hotiools系列工具
+title: 欢迎使用Hotools系列工具
 ---
 
 我是Hollow，底边模型师，平时开发一些小工具，感谢您的使用  
