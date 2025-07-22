@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hotools-blender/9.检查.md",
+                "file": "Hotools-blender/3.形态键工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9.检查"
+              "title": "3.形态键工具"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hotools-blender/9.检查.md",
+                "file": "Hotools-blender/3.形态键工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "9.检查 的大纲"
+              "title": "3.形态键工具 的大纲"
             }
           }
         ],
@@ -171,10 +171,12 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "_img/Pasted image 20250722180917.png",
+    "_img/Pasted image 20250722175936.png",
+    "Hotools-blender/9.检查.md",
     "_img/Pasted image 20250722040502.png",
     "_img/Pasted image 20250722040439.png",
     "Hotools-blender/10.其他.md",
-    "Hotools-blender/9.检查.md",
     "Hotools-blender/1.顶点色工具.md",
     "Hotools-blender/2.顶点组工具.md",
     "Hotools-blender/5.骨骼工具.md",
@@ -185,9 +187,7 @@
     "_img/Pasted image 20250721032708.png",
     "_img/Pasted image 20250721032556.png",
     "_img/Pasted image 20250721032533.png",
-    "_img/Pasted image 20250721032353.png",
     "Hotools-blender/8.导出.md",
-    "_img/Pasted image 20250721032218.png",
     "Hotools-blender/3.形态键工具.md",
     "index.md",
     "Hotools-blender/4.映射改名工具.md",
