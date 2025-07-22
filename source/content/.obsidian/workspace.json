@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Hotools-blender/1.顶点色工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1.顶点色工具"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Hotools-blender/1.顶点色工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "1.顶点色工具 的大纲"
             }
           }
         ],
@@ -171,11 +171,14 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Hotools-unity/index.md",
-    "安装与配置/1.支持.md",
-    "Hotools-blender/1.顶点色工具.md",
     "Hotools-blender/2.顶点组工具.md",
+    "Hotools-blender/5.骨骼工具.md",
+    "Hotools-blender/7.exIcon.md",
+    "Hotools-blender/1.顶点色工具.md",
     "Hotools-blender/3.形态键工具.md",
+    "安装与配置/1.支持.md",
+    "index.md",
+    "Hotools-unity/index.md",
     "_img/Pasted image 20250722181331.png",
     "_img/Pasted image 20250722180917.png",
     "_img/Pasted image 20250722175936.png",
@@ -183,19 +186,16 @@
     "_img/Pasted image 20250722040502.png",
     "_img/Pasted image 20250722040439.png",
     "Hotools-blender/10.其他.md",
-    "Hotools-blender/5.骨骼工具.md",
     "_img/Pasted image 20250721032913.png",
     "_img/Pasted image 20250721032850.png",
     "_img/Pasted image 20250721032741.png",
     "_img/Pasted image 20250721032726.png",
     "_img/Pasted image 20250721032708.png",
     "Hotools-blender/8.导出.md",
-    "index.md",
     "Hotools-blender/4.映射改名工具.md",
     "Hotools-blender/6.UV工具.md",
     "安装与配置/2.blender插件安装.md",
     "Hotools-unity/1.导入约束.md",
-    "Hotools-blender/7.exIcon.md",
     "安装与配置/index.md",
     "Hotools-blender/index.md",
     "Hotools-blender/支持.md",
