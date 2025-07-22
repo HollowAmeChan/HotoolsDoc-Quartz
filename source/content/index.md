@@ -3,6 +3,7 @@ title: 欢迎使用Hotools系列工具
 ---
 ![[3CA174B5C99FCC7F9C8C1599729E3695.jpg|350]]  
 我是Hollow，底边模型师，平时开发一些小工具，感谢您的使用  
+插件最新都发布在 qq 群中，在工坊购买的 bro 们火速进群  
 本界面为一些工具的使用文档，文档更新会落后功能更新一段时间请见谅  
 对插件工具有任何疑问以及改进建议，都欢迎直接找我本人提意见  
 [github](https://github.com/HollowAmeChan)[bilibil](https://space.bilibili.com/60340452)[qq交流群](https://qm.qq.com/q/YkNEsTDQUG)  
