@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "安装与配置/1.支持.md",
+                "file": "安装与配置/4.待解决bug清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.支持"
+              "title": "4.待解决bug清单"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安装与配置/1.支持.md",
+                "file": "安装与配置/4.待解决bug清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.支持 的大纲"
+              "title": "4.待解决bug清单 的大纲"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "安装与配置/1.支持.md",
     "安装与配置/2.blender插件安装.md",
     "安装与配置/3.插件的更新.md",
     "安装与配置/4.待解决bug清单.md",
@@ -180,7 +181,6 @@
     "Hotools-blender/5.骨骼工具.md",
     "Hotools-blender/7.exIcon.md",
     "Hotools-blender/3.形态键工具.md",
-    "安装与配置/1.支持.md",
     "index.md",
     "Hotools-unity/index.md",
     "_img/Pasted image 20250722181331.png",
