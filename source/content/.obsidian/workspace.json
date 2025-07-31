@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hotools-blender/3.形态键工具.md",
+                "file": "Hotools-blender/10.其他.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.形态键工具"
+              "title": "10.其他"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hotools-blender/3.形态键工具.md",
+                "file": "Hotools-blender/10.其他.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.形态键工具 的大纲"
+              "title": "10.其他 的大纲"
             }
           }
         ],
@@ -171,8 +171,8 @@
   },
   "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
-    "Hotools-blender/6.UV工具.md",
     "Hotools-blender/3.形态键工具.md",
+    "Hotools-blender/6.UV工具.md",
     "_img/Pasted image 20250725043734.png",
     "Hotools-blender/2.顶点组工具.md",
     "安装与配置/4.待解决bug清单.md",
