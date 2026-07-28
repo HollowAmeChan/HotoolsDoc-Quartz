@@ -1,0 +1,43 @@
+---
+title: MC2 网格与骨骼布料
+description: MC2 MeshCloth、BoneCloth 和 BoneSpring 域的节点与工作流。
+---
+
+# MC2 网格与骨骼布料
+
+MC2 是物理世界中的网格/骨骼域，包含对象声明、域收集、域配置、模拟步和可视化调试。它与传统 `Physics > 网格物理-XPBD(-CPP)` 节点分开维护。
+
+## 对象节点
+
+- MC2 MeshCloth 对象：从 HoTools 对象属性读取布料声明。
+- MC2 MeshCloth 自定义对象：直接在节点图提供网格、BasePose、固定点和参数。
+
+## 域节点
+
+- MC2 Mesh 域收集：聚合多个 MeshCloth 声明。
+- MC2 MeshCloth 域：配置网格布料域。
+- MC2 BoneCloth 域：把网格物理结果驱动到骨骼布料。
+- MC2 BoneSpring 域：配置骨骼弹簧域。
+
+## 模拟与调试
+
+- MC2 模拟步：推进域状态。
+- MC2 可视化调试：绘制距离、弯曲、锚点、碰撞、自碰撞或其他诊断信息。具体开关按当前节点 UI 补齐。
+
+## BasePose 与拓扑
+
+MC2 需要稳定的基准形状和拓扑身份。使用“创建/刷新 BasePose 只读对象”生成明确基准；修改顶点数、点序或约束域后应重建。文档必须说明 BasePose 对象的命名、隐藏、只读约定和删除方式。
+
+## 约束与碰撞
+
+补写距离、弯曲、Tether、锚点、逐顶点碰撞、自碰撞和骨骼连接等参数的单位、默认值与成本。先用低迭代和小网格验证，再提高质量。
+
+## 截图计划
+
+- [ ] `omninode-mc2-mesh-object.png`
+- [ ] `omninode-mc2-domain-graph.png`
+- [ ] `omninode-mc2-base-pose.png`
+- [ ] `omninode-mc2-bone-cloth-spring.png`
+- [ ] `omninode-mc2-debug-view.png`
+- [ ] `omninode-mc2-result.png`
+

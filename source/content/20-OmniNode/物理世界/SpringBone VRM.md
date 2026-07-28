@@ -1,0 +1,40 @@
+---
+title: SpringBone VRM
+description: VRM 风格骨链弹簧、碰撞覆写与模拟节点。
+---
+
+# SpringBone VRM
+
+## 节点
+
+- VRM 骨链属性：声明重力、刚度、阻尼、半径等骨链参数。
+- VRM 骨链任务：选择根骨/骨链并构建模拟任务。
+- 骨骼碰撞覆写属性：在图中调整或补充骨碰撞设置。
+- 骨骼碰撞覆写注册：把覆写加入本帧物理上下文。
+- SpringBone VRM 模拟步：推进所有任务。
+- SpringBone VRM 可视化调试：绘制骨链、碰撞和结果。
+
+## 准备骨链
+
+说明根骨选择、子骨遍历、末端、局部轴、静置姿态、非变形骨和排除规则。左右链使用独立任务时保持命名清晰。
+
+## 碰撞
+
+优先复用 [[碰撞属性与预览|骨骼碰撞属性]]，只有图级动态修改才使用覆写节点。记录组过滤、胶囊/球形、半径和碰撞顺序。
+
+## 模拟参数
+
+补写时间步、子步、迭代、重力方向、刚度、阻尼、半径、拉伸限制和重置条件。说明与 VRM 规范字段的对应与差异。
+
+## 写回与 Bake
+
+结果可以直接写回姿态或通过统一物理 Bake 生成关键帧。已有动画、约束和旋转模式的合成规则必须单独验证。
+
+## 截图计划
+
+- [ ] `omninode-spring-vrm-chain-properties.png`
+- [ ] `omninode-spring-vrm-task-graph.png`
+- [ ] `omninode-spring-vrm-collision-override.png`
+- [ ] `omninode-spring-vrm-debug.png`
+- [ ] `omninode-spring-vrm-result.png`
+

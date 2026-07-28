@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "134ec7f2e7de0636",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "fecac13ff408e271",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "74084290c5a0c087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "source/CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "CODE_OF_CONDUCT"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "299b81dfede55c49",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "205b470eab05647f",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "b8a42d0f4c4e8fe2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "7fd5dbe199ccc208",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "16513a4f1042d941",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "bfba7a86746cae94",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "1be374f4ee4fce9f",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "b8d3ad7e9b1e44cc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotools-blender/5.骨骼工具.md",
+                "file": "source/CODE_OF_CONDUCT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "5.骨骼工具 的反向链接列表"
+              "title": "CODE_OF_CONDUCT 的反向链接列表"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "2f6e1ab42fb0d211",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "source/CODE_OF_CONDUCT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Some note 的出链列表"
+              "title": "CODE_OF_CONDUCT 的出链列表"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "acacaf7e6ad33f0b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +137,35 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "290bc68e0dacf679",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cbc4c6f423bc5ce5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "source/CODE_OF_CONDUCT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "CODE_OF_CONDUCT 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,53 +174,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b8a42d0f4c4e8fe2",
   "lastOpenFiles": [
-    "Hotools-blender/1.顶点色工具.md",
-    "安装与配置/index.md",
-    "安装与配置/4.待解决bug清单.md",
-    "安装与配置/2.blender插件安装.md",
-    "安装与配置/1.支持.md",
-    "Hotools-blender/9.检查.md",
-    "_img/Pasted image 20251213040409.png",
-    "_img/Pasted image 20251213040408.png",
-    "Hotools-blender/3.形态键工具.md",
-    "_img/Pasted image 20251213035626.png",
-    "Hotools-blender/2.顶点组工具.md",
-    "_img/Pasted image 20251213033826.png",
-    "Hotools-blender/4.映射改名工具.md",
-    "安装与配置/3.插件的更新.md",
-    "Hotools-blender/10.其他.md",
-    "Hotools-blender/6.UV工具.md",
-    "_img/Pasted image 20250725043734.png",
-    "Hotools-blender/5.骨骼工具.md",
-    "Hotools-blender/7.exIcon.md",
-    "index.md",
-    "Hotools-unity/index.md",
-    "_img/Pasted image 20250722181331.png",
-    "_img/Pasted image 20250722180917.png",
-    "_img/Pasted image 20250722175936.png",
-    "_img/Pasted image 20250722040502.png",
-    "_img/Pasted image 20250722040439.png",
-    "Hotools-blender/8.导出.md",
-    "Hotools-unity/1.导入约束.md",
-    "Hotools-blender/index.md",
-    "Hotools-blender/支持.md",
-    "Hotools-blender/blender插件安装.md",
-    "_img",
-    "安装与配置/Some note.md",
-    "Hotools-unity",
-    "Hotools-blender",
-    "安装与配置"
+    "source/README.md",
+    "README.md",
+    "source/CODE_OF_CONDUCT.md"
   ]
 }
