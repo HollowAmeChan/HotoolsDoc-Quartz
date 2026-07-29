@@ -20,8 +20,4 @@ description: 安装 HoTools 前需要了解的版本、入口与文档阅读方�
 
 普通用户不需要自行编译 native 后端。安装包已经包含对应 Python 版本的依赖，两个版本的依赖不能混用。
 
-## 截图计划
-
-- [ ] `00-getting-started-version-package.png`：Release 文件名与 Blender 版本的对应关系。
-- [ ] `00-getting-started-main-entry.png`：3D 视图 `N` 面板中的 HoTools 分类全貌。
 

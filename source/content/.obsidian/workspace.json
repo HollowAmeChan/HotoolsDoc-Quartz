@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "01-建模与视图/法线与数据.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "法线与数据"
             }
           }
         ]
@@ -171,8 +171,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "00-开始使用/index.md",
+    "00-开始使用/偏好设置与入口.md",
+    "00-开始使用/安装与更新.md",
+    "_assets/screenshots/Pasted image 20260729163353.png",
+    "_assets/screenshots/Pasted image 20260729163318.png",
+    "_assets/screenshots/Pasted image 20260729163230.png",
+    "_assets/screenshots/Pasted image 20260729163202.png",
+    "_assets/screenshots/Pasted image 20260729163134.png",
+    "_assets/screenshots/Pasted image 20260729153547.png",
+    "index.md",
+    "20-OmniNode/index.md",
     "Hotools-blender/1.顶点色工具.md",
     "安装与配置/index.md",
     "安装与配置/4.待解决bug清单.md",
@@ -189,16 +200,9 @@
     "安装与配置/3.插件的更新.md",
     "Hotools-blender/10.其他.md",
     "Hotools-blender/6.UV工具.md",
-    "_img/Pasted image 20250725043734.png",
     "Hotools-blender/5.骨骼工具.md",
     "Hotools-blender/7.exIcon.md",
-    "index.md",
     "Hotools-unity/index.md",
-    "_img/Pasted image 20250722181331.png",
-    "_img/Pasted image 20250722180917.png",
-    "_img/Pasted image 20250722175936.png",
-    "_img/Pasted image 20250722040502.png",
-    "_img/Pasted image 20250722040439.png",
     "Hotools-blender/8.导出.md",
     "Hotools-unity/1.导入约束.md",
     "Hotools-blender/index.md",
