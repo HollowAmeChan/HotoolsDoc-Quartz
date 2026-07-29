@@ -33,13 +33,3 @@ Jolt 解算器依赖 HoTools 安装包中的 native 后端。文档应明确支�
 
 - RayCast：起点、方向、距离、过滤和命中输出。
 - Jolt 刚体可视化调试：形状、包围盒、接触、约束和睡眠状态。
-
-## 截图计划
-
-- [ ] `omninode-jolt-register-graph.png`
-- [ ] `omninode-jolt-constraint-graph.png`
-- [ ] `omninode-jolt-commands.png`
-- [ ] `omninode-jolt-raycast.png`
-- [ ] `omninode-jolt-debug.png`
-- [ ] `omninode-jolt-result.png`
-

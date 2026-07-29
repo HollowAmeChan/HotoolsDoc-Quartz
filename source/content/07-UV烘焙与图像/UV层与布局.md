@@ -20,10 +20,3 @@ description: 管理 UV 层并转换或规范 UV 布局。
 ## UV 转形态键
 
 把 UV 坐标映射为网格形态，便于检查或特殊烘焙。说明坐标轴、缩放和新键命名。
-
-## 截图计划
-
-- [ ] `uv-layer-replace-reorder.png`
-- [ ] `uv-fit-first-quadrant.png`
-- [ ] `uv-to-shape-key.png`
-

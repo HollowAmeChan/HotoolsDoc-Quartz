@@ -26,12 +26,3 @@ description: 修改器、材质、UV、颜色属性和顶点组的增删查改�
 ## 顶点组
 
 创建；按名称/索引获取；获取活动组；读取名称、索引和所属物体；重命名；设置活动组或活动索引；删除组对象。
-
-## 截图计划
-
-- [ ] `omninode-modifier-crud.png`
-- [ ] `omninode-material-slot-crud.png`
-- [ ] `omninode-uv-layer-crud.png`
-- [ ] `omninode-color-attribute-crud.png`
-- [ ] `omninode-vertex-group-crud.png`
-

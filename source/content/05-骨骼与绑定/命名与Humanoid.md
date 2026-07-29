@@ -24,10 +24,3 @@ description: 规则化重命名、左右命名和 Humanoid 骨骼映射。
 ## Humanoid 映射
 
 自动识别或手动维护 Humanoid 骨骼对应关系，并为导出或约束流程提供统一名称。说明支持的模板和无法识别时的手动补全。
-
-## 截图计划
-
-- [ ] `armature-rename-rules.png`
-- [ ] `armature-chain-branch-rename.png`
-- [ ] `armature-humanoid-mapping.png`
-

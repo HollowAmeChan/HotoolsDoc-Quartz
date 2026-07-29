@@ -16,10 +16,3 @@ description: 用 MeshGroup 组织来源与目标并执行 RT 烘焙。
 ## 执行 RT 烘焙
 
 按面板设置输入、输出、分辨率和路径后执行。补写 RT 的具体产物、显卡/渲染器要求、失败日志和重复烘焙覆盖策略。
-
-## 截图计划
-
-- [ ] `rt-bake-mesh-groups.png`
-- [ ] `rt-bake-object-list.png`
-- [ ] `rt-bake-settings-result.png`
-

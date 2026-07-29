@@ -25,11 +25,3 @@ HoAux 是骨骼工具中的一组模块化辅助变形系统，适合肩、肘�
 ## 管理与清理
 
 启用/禁用单模块、选择模块骨骼、删除单模块、删除整臂流水线和删除全部 HoAux。
-
-## 截图计划
-
-- [ ] `hoaux-module-panel.png`
-- [ ] `hoaux-shoulder-elbow-wrist.png`
-- [ ] `hoaux-whole-arm-pipeline.png`
-- [ ] `hoaux-preview-and-cleanup.png`
-

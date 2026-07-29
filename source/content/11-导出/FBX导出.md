@@ -24,11 +24,3 @@ FBX 导出参数与预处理参数分别具有预设菜单。说明新增、覆�
 ## 仅预处理
 
 运行同样的预处理但不写 FBX，便于检查结果。记录生成对象的清理方式。
-
-## 截图计划
-
-- [ ] `export-fbx-panel.png`
-- [ ] `export-fbx-preprocess.png`
-- [ ] `export-fbx-presets.png`
-- [ ] `export-fbx-result-files.png`
-

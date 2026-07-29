@@ -29,12 +29,3 @@ description: VRM 风格骨链弹簧、碰撞覆写与模拟节点。
 ## 写回与 Bake
 
 结果可以直接写回姿态或通过统一物理 Bake 生成关键帧。已有动画、约束和旋转模式的合成规则必须单独验证。
-
-## 截图计划
-
-- [ ] `omninode-spring-vrm-chain-properties.png`
-- [ ] `omninode-spring-vrm-task-graph.png`
-- [ ] `omninode-spring-vrm-collision-override.png`
-- [ ] `omninode-spring-vrm-debug.png`
-- [ ] `omninode-spring-vrm-result.png`
-

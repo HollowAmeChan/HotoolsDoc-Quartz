@@ -31,13 +31,3 @@ MC2 需要稳定的基准形状和拓扑身份。使用“创建/刷新 BasePose
 ## 约束与碰撞
 
 补写距离、弯曲、Tether、锚点、逐顶点碰撞、自碰撞和骨骼连接等参数的单位、默认值与成本。先用低迭代和小网格验证，再提高质量。
-
-## 截图计划
-
-- [ ] `omninode-mc2-mesh-object.png`
-- [ ] `omninode-mc2-domain-graph.png`
-- [ ] `omninode-mc2-base-pose.png`
-- [ ] `omninode-mc2-bone-cloth-spring.png`
-- [ ] `omninode-mc2-debug-view.png`
-- [ ] `omninode-mc2-result.png`
-

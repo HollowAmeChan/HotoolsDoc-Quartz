@@ -16,10 +16,3 @@ description: 将 Blender 动画曲线转换为 Unity .anim 文件。
 ## 导出
 
 说明帧范围、采样率、循环设置、输出路径和文件覆盖。用一个短动画验证 Unity 导入结果。
-
-## 截图计划
-
-- [ ] `export-unity-anim-panel.png`
-- [ ] `export-unity-anim-curve.png`
-- [ ] `export-unity-anim-inspector.png`
-
