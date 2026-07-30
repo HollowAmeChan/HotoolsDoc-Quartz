@@ -3,11 +3,7 @@ import * as Component from "./quartz/components"
 
 const explorer = Component.Explorer({
   sortFn: (a, b) => {
-    // Keep folders before pages, then sort by the real path segment so numeric prefixes work.
-    if (Boolean(a.file) !== Boolean(b.file)) {
-      return a.file ? 1 : -1
-    }
-
+    // Compare every entry by its real path segment so prefixes also work across files and folders.
     return a.name.localeCompare(b.name, "zh-CN", {
       numeric: true,
       sensitivity: "base",
