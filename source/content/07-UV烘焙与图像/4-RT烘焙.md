@@ -1,7 +1,13 @@
----
-title: RT 烘焙
-description: 用 MeshGroup 管理参与对象，并按当前 Cycles 设置执行 RT 烘焙。
----
+![[Pasted image 20260731110813.png|296]]
+
+本功能也属于实验性质功能
+最常用的依旧是直出，不需要走原版的烘焙配置流程，比较简单
+使用了内部的降噪与 padding 膨胀，比较符合贴图制作规范
+Group 是用来区分 AO 区域的，不同 group 之间不会有 AO 影响
+> 本功能在 pbr 流程中的最大的优势是，可以光追烘焙带着法线贴图的 ao，同时效果远比 knald 或者 sp 中叠加细节好
+
+视频演示
+[Blender-HoTools插件-贴图烘焙RTbake_哔哩哔哩_bilibili](https://www.bilibili.com/video/av116736120593123/)
 
 # RT 烘焙
 
