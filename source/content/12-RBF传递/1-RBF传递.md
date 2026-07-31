@@ -1,11 +1,8 @@
----
-title: RBF 传递
-description: 用一对同拓扑低模 Cage 把身体形变传递到衣服等网格。
----
-
-# RBF 传递
 
 RBF 传递适合把一套身体比例变化传递给衣服、饰品或其他贴身网格。它不要求目标物体和身体同拓扑，但要求“原 Cage”和“目标 Cage”两者的点数、拓扑和点序完全一致。
+
+==建议直接看视频教程==
+[Blender-HoTools插件-Rbf素体适配服装_哔哩哔哩_bilibili](https://www.bilibili.com/video/av116551487331286/)
 
 ## 生成低模 Cage
 

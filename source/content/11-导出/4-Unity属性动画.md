@@ -1,9 +1,4 @@
----
-title: Unity 属性动画导出
-description: 把 FBX 无法携带的 Blender 属性曲线写成 Unity .anim。
----
-
-# Unity 属性动画导出
+==施工中==
 
 这个工具只负责 FBX 通常带不走的属性动画。物体变换、姿态骨骼变换和形态键曲线会被扫描器排除，仍然交给 FBX。
 
@@ -25,5 +20,3 @@ description: 把 FBX 无法携带的 Blender 属性曲线写成 Unity .anim。
 - 全局目标路径：所有未单独覆盖轨道使用的 Unity 层级路径。
 - 对齐到起始帧：把场景起始帧作为 `t=0`。
 - Loop Time：让生成的 AnimationClip 开启循环。
-
-导出后先在 Unity Animation 窗口检查曲线绑定和时长，再把 Clip 放进正式 Animator。对应说明见 [[../14-Unity/2-属性动画导入|属性动画导入]]。
